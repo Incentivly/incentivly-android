@@ -1,0 +1,61 @@
+### macOS
+.DS_Store
+
+### Gradle
+.gradle/
+build/
+**/build/
+
+### Local configuration
+local.properties
+gradle.properties.local
+*.keystore
+*.jks
+keystore.properties
+*.keystore.properties
+
+### Android Studio/IDE
+.idea/
+*.iml
+.cxx/
+.externalNativeBuild/
+.settings/
+out/
+
+### Logs
+*.log
+
+### Captures
+captures/
+
+### Artifacts
+*.apk
+*.ap_
+*.aab
+
+### NDK/intermediates
+obj/
+intermediates/
+
+### Fastlane (if used)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+### Firebase/Fabric
+.crashlytics/
+fabric.properties
+
+### Kotlin/Java metadata
+*.kotlin_module
+
+### Node (if present)
+node_modules/
+
+### VS Code (optional)
+.vscode/
+
+
+
+
